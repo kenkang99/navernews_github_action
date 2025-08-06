@@ -30,7 +30,7 @@ jobs:
           NAVER_QUERY: ${{ vars.NAVER_QUERY }} # 또는 secrets로 관리해도 됩니다
           NAVER_DISPLAY: "10"                  # 옵션
           NAVER_SORT: "date"                   # sim|date
-        run: python scripts/update_readme.py
+        run: python update_news.py
 
       - name: Commit & push changes
         uses: stefanzweifel/git-auto-commit-action@v5
