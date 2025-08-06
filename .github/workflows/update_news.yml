@@ -1,0 +1,39 @@
+name: Update Naver News in README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # 6시간마다 (UTC 기준)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: python -m pip install --upgrade requests python-dotenv
+
+      - name: Run updater
+        env:
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+          NAVER_QUERY: ${{ vars.NAVER_QUERY }} # 또는 secrets로 관리해도 됩니다
+          NAVER_DISPLAY: "10"                  # 옵션
+          NAVER_SORT: "date"                   # sim|date
+        run: python scripts/update_readme.py
+
+      - name: Commit & push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update news section (auto)"
+          file_pattern: "README.md"
