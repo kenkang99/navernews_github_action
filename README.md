@@ -4,20 +4,16 @@
 
 <!-- NEWS:START -->
 ## 최신 네이버 뉴스: `기업`
-_Last update: 2025-09-09 09:43:13 KST_
+_Last update: 2025-09-09 15:14:54 KST_
 
 | 제목 | 원문(originallink) | 네이버 링크 | 발행시각 | 요약 |
 |---|---|---|---|---|
-| KT, 광화문에 초대형 미디어월 'KT 스퀘어' 공개 | [원문](https://www.epnc.co.kr/news/articleView.html?idxno=322122) | [네이버](https://www.epnc.co.kr/news/articleView.html?idxno=322122) | 2025-09-09 09:42:00 KST | KT는 기업 콘텐츠뿐 아니라 공공 콘텐츠, 상업 광고 등 다양한 주제와 장르의 콘텐츠를 상시 운영하고 AI 기반 ICT 기술을 접목해 시간대∙계절∙날씨 등의 데이터 기반 실시간 맞춤형 정보를 제공할 예정이다. 또 국내외... |
-| 비수도권상공회의소협의회 제3차 회의 개최 | [원문](http://www.m-i.kr/news/articleView.html?idxno=1279724) | [네이버](http://www.m-i.kr/news/articleView.html?idxno=1279724) | 2025-09-09 09:42:00 KST | 윤재호 경상북도상공회의소협의회장을 비롯한 비수도권상공회의소협의회장은 "이번 연구용역을 통해 도출된 세제 개편안은 비수도권 기업 경쟁력 강화와 지역 정주여건 개선에 기여할 수 있을 것"이라며, "향후 국회... |
-| '노란봉투법' 9일 공포…내년 3월10일 시행 | [원문](http://www.newstomato.com/ReadNews.aspx?no=1274196&inflow=N) | [네이버](http://www.newstomato.com/ReadNews.aspx?no=1274196&inflow=N) | 2025-09-09 09:42:00 KST | 또 기업의 과도한 손해배상 청구를 제한하고, 노동쟁의의 범위를 확대했습니다. 김영훈 고용노동부 장관은 이날 "앞으로 6개월의 준비기간 동안 현장지원 TF를 통해 현장의 다양한 의견을 수렴하고, 구체적인 지침... |
-| "지드래곤의 꽃, 블록으로 피어나다"...한정판 '818 BLOOM' 출시 | [원문](https://www.thepublic.kr/news/articleView.html?idxno=275879) | [네이버](https://www.thepublic.kr/news/articleView.html?idxno=275879) | 2025-09-09 09:42:00 KST | 제조 기업으로, 매년 2억개 이상의 블록을 제조해 30여개 국가에서 판매하는 등 세계 2위의 판매고를... 유수한 기업 및 단체와 콜라보 제품을 진행해 매진 사례를 이어왔다. 이번 피스마이너스원과의 협업 역시... |
-| 2025 살람 서울 페스티벌, 광화문광장서 개최…"서울과 아시아·중동 문... | [원문](http://www.financialreview.co.kr/news/articleView.html?idxno=36921) | [네이버](http://www.financialreview.co.kr/news/articleView.html?idxno=36921) | 2025-09-09 09:42:00 KST | 무대 주변으로는 말레이시아, 사우디아라비아, 수단, 아랍에미리트, 오만, 요르단, 이라크, 이집트, 카타르, 쿠웨이트 등 국가 홍보존이 있으며, 기업 홍보존과 체험존, 그리고 플리마켓이 펼쳐져 광화문 광장을 찾은... |
-| SK AX, 카테나-X로 글로벌 공급망 ESG 데이터 연결 나선다 | [원문](http://www.seoulwire.com/news/articleView.html?idxno=669857) | [네이버](http://www.seoulwire.com/news/articleView.html?idxno=669857) | 2025-09-09 09:42:00 KST | 전문기업 IBCT와 함께 글로벌 제조 데이터 연합체인 '카테나-X(Catena-X)' 기반 생태계 대응을 위한 전략적 협약(MOU)을 체결했다고 밝혔다. 카테나-X는 SAP, 지멘스, BMW, 메르세데스-벤츠 등 글로벌 제조 선도 기업이 공동... |
-| 메타비아(MetaVia), 글로벌 투자 컨퍼런스 및 학회 참가 | [원문](https://www.discoverynews.kr/news/articleView.html?idxno=1072837) | [네이버](https://www.discoverynews.kr/news/articleView.html?idxno=1072837) | 2025-09-09 09:42:00 KST | Wainwright & Co.)가 매년 유망 기업과 글로벌 투자자를 초청해 기업 소개와 파트너십 논의를 진행하는 행사다. 메타비아는 이번 행사를 시작으로 16일 'Obesity Science & Innovation 2025 Congress(비만 과학... |
-| '우리들의 발라드' 크러쉬 "제 모든 감각을 깨워주는 울림이 '원석'의 빛... | [원문](http://www.stoo.com/article.php?aid=102458835228) | [네이버](http://www.stoo.com/article.php?aid=102458835228) | 2025-09-09 09:42:00 KST | 오디션 명가 SBS가 세계 속에 K팝 기준을 제시하고 대중음악을 선도해 온 SM엔터테인먼트, 대한민국 문화 콘텐츠 기업이자 최고의 매니지먼트사 SM C&C와 함께하는 대형 오디션 프로그램이다. |
-| 춘천 후평산단 복합문화센터, 내년 1월 개관 | [원문](https://gw.newdaily.co.kr/site/data/html/2025/09/09/2025090900086.html) | [네이버](https://gw.newdaily.co.kr/site/data/html/2025/09/09/2025090900086.html) | 2025-09-09 09:42:00 KST | 운영은 입주기업 근로자를 위한 교양강좌, 책꾸러미 순회대출, 예술공연 제공과 함께 시민 대상 평생교육, 전시·공연, 어린이 프로그램을 연중 진행한다. 시는 지역 작가·단체와의 협업으로 산업단지와 지역사회가... |
-| 한투운용, 연금 공모펀드 연초 이후 1조원 증가… '자금 유입 1위' | [원문](https://www.businessplus.kr/news/articleView.html?idxno=96577) | [네이버](https://www.businessplus.kr/news/articleView.html?idxno=96577) | 2025-09-09 09:42:00 KST | 해당 펀드는 반도체·디지털 인프라·클라우드·사이버 보안·핀테크·이커머스 등 6대 혁신 섹터에 분산 투자하며, 자산의 60% 이상을 미국 테크 기업에 배분한다. 국내 채권형 펀드에서는 16년 운용 역사를 가진... |
+| 서울회생법원, 위메프 회생절차 폐지 결정…14일내 항고 없으면 확정 | [원문](https://www.slist.kr/news/articleView.html?idxno=676345) | [네이버](https://www.slist.kr/news/articleView.html?idxno=676345) | 2025-09-09 15:14:00 KST | 위메프의 기업회생절차가 폐지되면서 사실상 파산 수순을 밟게 됐다. 서울회생법원 회생3부(정준영 법원장)... 기업회생절차는 경영 위기를 겪는 기업을 청산할 때의 가치(청산가치)보다 유지할 때의 가치(존속가치)가 더... |
+| ‘샘 알트먼 코인’ 매수 발표에...美 골판지 업체 3000% 급등 | [원문](https://www.mk.co.kr/article/11414866) | [네이버](https://n.news.naver.com/mnews/article/009/0005555551?sid=101) | 2025-09-09 15:14:00 KST | 골판지 포장 사업을 하던 작은 기업이 챗 GPT의 아버지로 불리는 샘 알트먼이 공동 설립한 가상자산... 이 회사는 원래 북미와 유럽에서 재고 관리 및 골판지 맞춤형 포장 솔루션을 제공하는 작은 기업이다. 하지만... |
+| 강원TP-기술보증기금, 강원지역 우수기술 육성 | [원문](http://amenews.kr/news/view.php?idx=63795) | [네이버](http://amenews.kr/news/view.php?idx=63795) | 2025-09-09 15:14:00 KST | 우수기술 기업에 대한 맞춤형 성장을 지원한다, 강원TP는 기보와 강원TP 춘천본원 중회의실에서 ‘중소기업 개방형 기술혁신 촉진 및 우수 기술기업 육성을 위한 업무협약’을 체결했다고 9일 밝혔다. 이번 협약식에는... |
+| 구글, 위성사진속 보안시설 가림처리···한국 요구대로 | [원문](https://www.thereport.co.kr/news/articleView.html?idxno=70559) | [네이버](https://www.thereport.co.kr/news/articleView.html?idxno=70559) | 2025-09-09 15:14:00 KST | 터너 부사장은 "구글은 한국 정부와의 협력을 지속하는 한편 티맵모빌리티 등 국내 기업과의 파트너십도 강화할 것이다"이라며 "필요한 경우 이미 가림 처리된 상태로 정부 승인된 위성 이미지를 국내 파트너사로부터... |
+| [방산+] LIG넥스원, 뮌헨에 깃발 'EU 센서·미사일' 클러스터 진입 | [원문](https://www.bloter.net/news/articleView.html?idxno=643675) | [네이버](https://n.news.naver.com/mnews/article/293/0000072223?sid=101) | 2025-09-09 15:14:00 KST | 현지 연구개발·생산·마케팅을 아우르는 협력 거점을 확보하고 유럽 주요 방산기업과 전략적 파트너십을... 반경 1~2시간 거리에 에어버스, 헨솔트(HENSOLDT), MBDA 등 유럽 대표 방산기업들이 밀집한 산업 클러스터가... |
+| 오리온이엔씨, 'K-원전 Biz 로드쇼' 참가…방사성폐기물 처리·SMR 설계 ... | [원문](https://www.pinpointnews.co.kr/news/articleView.html?idxno=375200) | [네이버](https://www.pinpointnews.co.kr/news/articleView.html?idxno=375200) | 2025-09-09 15:14:00 KST | 해외 바이어 약 60명을 포함한 국내 원전 중소기업 관계자 등 200여 명이 참석한다. APEC 정상회의를 앞두고 한국수력원자력 및 한국원자력산업협회가 주최·주관하며 국내 원전 기업의 해외 판로 개척과 신규 시장... |
 
 > 데이터 출처: 네이버 검색 뉴스 API
 <!-- NEWS:END -->
