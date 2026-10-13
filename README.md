@@ -4,15 +4,20 @@
 
 <!-- NEWS:START -->
 ## 최신 네이버 뉴스: `기업`
-_Last update: 2026-10-13 08:52:54 KST_
+_Last update: 2026-10-13 13:12:20 KST_
 
 | 제목 | 원문(originallink) | 네이버 링크 | 발행시각 | 요약 |
 |---|---|---|---|---|
-| [2026 국감] 노란봉투법 시행 7개월…원청 교섭범위·후속조치 시험대 | [원문](https://www.dailian.co.kr/news/view/1700658/?sc=Naver) | [네이버](https://n.news.naver.com/mnews/article/119/0003142007?sid=102) | 2026-10-13 08:52:00 KST | 야권과 경영계는 기업활동 위축과 노사갈등 확대 가능성을 우려하고 있다. 9월 기준 근로손실일수는 48만9190일로 지난해 연간 39만4000일을 넘어섰다. 반면 노동부는 일부 대규모 사업장의 통상적인 임금·단체협약 분규... |
-| 소상공인연합회, 네이버·네이버페이와 맞손…소상공인 디지털 전환 지... | [원문](https://www.joongangenews.com/news/articleView.html?idxno=554339) | [네이버](https://www.joongangenews.com/news/articleView.html?idxno=554339) | 2026-10-13 08:52:00 KST | 우선 4개 기관과 기업은 대한제과협회 회원사와 소상공인연합회 소속 사업자를 대상으로 네이버페이의... 이번 협약은 소상공인 단체와 플랫폼 기업, 업종별 협회가 협력해 디지털 전환을 지원한다는 점에서 의미가 있다.... |
-| "금리 인하만으론 위기 해결 못 해" | [원문](http://www.choicenews.co.kr/news/articleView.html?idxno=172154) | [네이버](http://www.choicenews.co.kr/news/articleView.html?idxno=172154) | 2026-10-13 08:52:00 KST | 홀과 마이클 우드퍼드가 가계와 기업의 개별적인 경제적 선택을 바탕으로 경기변동과 인플레이션에... 로이터통신과 가디언 등 외신들은 이같은 수상 소식을 전하면서 "두 사람의 연구는 개별 가계와 기업의 의사결정이... |
-| "높아지는 실적 눈높이"…한국콜마 목표가 '상향' | [원문](https://www.fnnews.com/news/202610130847330361) | [네이버](https://n.news.naver.com/mnews/article/014/0005588166?sid=101) | 2026-10-13 08:52:00 KST | 다만 해외 시장의 경우 실적이 회복하는 데 시간이 걸릴 것으로 전망했다. 미국과 캐나다, 중국은 적자가 이어질 것으로 예상하며, 향후 다국적기업(MNC) 물량과 동남아향 생산 확대로 대응할 것으로 봤다. |
-| 농업기술, 도시의 일상으로 확장 | [원문](https://www.farmnmarket.com/news/article.html?no=28109) | [네이버](https://www.farmnmarket.com/news/article.html?no=28109) | 2026-10-13 08:52:00 KST | 정부와 지방자치단체, 공공기관, 기업, 연구기관, 시민이 참여하는 6자 실행체계 구축과 통합 가이드라인, 원스톱 지원체계 마련도 강조했다. 이 교수는 기술의 가능성을 확인하는 데서 나아가 실제 설치와 운영 과정에서... |
+| 직원 마음 챙기겠다는 기업들이 빠뜨린 것 [ESG 세상] | [원문](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272885&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news) | [네이버](https://n.news.naver.com/mnews/article/047/0002532016?sid=102) | 2026-10-13 13:11:00 KST | 이러한 문제를 해결하기 위해 기업과 공공기관은 근로자지원프로그램(EAP, Employee Assistance Program) 등 상담 지원 제도를 마련하고 있다. [2] EAP는 미국 등 서구에서 보편화한 제도로 기업이 소속 근로자의 직무... |
+| 누구나 콘텐츠 만드는 AI 시대, 핵심 경쟁력은 '브랜드·신뢰' | [원문](https://zdnet.co.kr/view/?no=20261013115037) | [네이버](https://n.news.naver.com/mnews/article/092/0002440727?sid=105) | 2026-10-13 13:11:00 KST | 인공지능(AI)이 기업의 일하는 방식을 바꾸는 가운데, 마케팅 업무를 혁신하고 실제 성과로 연결하기 위한... 그는 "앱 시대의 기업에게 신선도가 중요했다면 AI 시대에는 신뢰도가 중요하다"고 말했다. 소비자의 정서가... |
+| 수출 71.5% 대박났는데... 프랑스 약국에서 감지된 위기 [목수정의 바스... | [원문](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272884&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news) | [네이버](https://n.news.naver.com/mnews/article/047/0002532015?sid=103) | 2026-10-13 13:11:00 KST | 박 대표는 K-뷰티가 여기서 한 단계 더 도약하기 위해선, 지금이 중장기적으로 기업이 구축해 갈 역사를 고민하고 브랜딩을 생각해야 할 때라고 강조했다. 그는 "그들이 가장 먼저 해야 할 일들은 K-문화에 발 딛고 있지... |
+| 차석호 함안군수 "조직·재정 혁신하고 군민 체감 성과 만들 것" | [원문](https://news.tf.co.kr/read/national/2375631.htm) | [네이버](https://n.news.naver.com/mnews/article/629/0000541530?sid=102) | 2026-10-13 13:11:00 KST | 그는 "현장에서 답을 찾고 가능한 일은 신속하게 실행해야 한다"며 "군민과 기업의 목소리가 실제 정책과... 지역 경제와 관련해서는 기업 애로 해소와 투자유치, 일자리 창출을 핵심 과제로 제시했다. 함안군은 최근 국... |
+| 토더, 딥테크 팁스 선정… 외식업 데이터 통합 AI 개발 추진 | [원문](https://www.shinailbo.co.kr/news/articleView.html?idxno=5070815) | [네이버](https://www.shinailbo.co.kr/news/articleView.html?idxno=5070815) | 2026-10-13 13:10:00 KST | 외식업 운영 자동화 솔루션 토더(Toorder)를 운영하는 주식회사 낭만상회가 중소벤처기업부의 딥테크 팁스(Deep-tech TIPS)에 선정돼 외식업 특화 인공지능(AI) 에이전트 기술 개발에 나선다. 낭만상회는 이번 선정으로 향후... |
+| 블랙이글스 곡예비행부터 우주로버 챌린지까지…사천에어쇼 ‘풍성’ | [원문](https://www.kukinews.com/article/view/kuk202610130118) | [네이버](https://www.kukinews.com/article/view/kuk202610130118) | 2026-10-13 13:10:00 KST | 공군과 육·해군, 미 공군, 항공 관련 기관 및 기업이 참여해 항공기와 무장·장비 등을 선보인다. 공군 및... 우주항공방위산업전에서는 항공·우주·방위산업 기업들의 첨단 기술과 제품을 만날 수 있다. 22-23일에는... |
+| 이대열 장원토건 회장, 목원대에 '외국인 유학생 후원금' | [원문](https://www.newsis.com/view/NISX20261013_0003823597) | [네이버](https://n.news.naver.com/mnews/article/003/0014249782?sid=102) | 2026-10-13 13:10:00 KST | 목원대는 지역 종합건설기업 ㈜장원토건 이대열 회장(경제학과 81학번)이 모교에서 이희학 총장에게 외국인 유학생 식사 지원 프로그램 '사랑의 샘터'에 후원금을 전달했다고 13일 밝혔다. 장원토건은 교내 주요 교육시설... |
+| 사이버 공격 늘어나는데 보안주는 차별화…실적이 주가 갈랐다 | [원문](https://www.pinpointnews.co.kr/news/articleView.html?idxno=494845) | [네이버](https://www.pinpointnews.co.kr/news/articleView.html?idxno=494845) | 2026-10-13 13:10:00 KST | 디도스(DDoS)와 랜섬웨어 등 사이버 위협이 이어지는 가운데 기업과 공공기관의 보안 투자 확대, 일부 기업의 수익성 개선 기대가 관련주 투자심리에 영향을 주는 모습이다. 다만 상승 종목과 하락 종목이 엇갈려 실적과... |
+| 충북바이오산학융합원, 세포·유전자치료제 공정개발 교육 | [원문](https://www.ccreview.co.kr/news/articleView.html?idxno=359716) | [네이버](https://www.ccreview.co.kr/news/articleView.html?idxno=359716) | 2026-10-13 13:10:00 KST | 교육비의 90% 이상은 국비로 지원된다. 교육생에게는 훈련수당과 웰컴키트가 제공되고 관련 기업 채용정보와 현직자 멘토링, 맞춤형 취업 컨설팅도 연계된다. 충청리뷰 최산 기자 |
+| GM, 개인정보 논란 재점화…차대번호까지 구글·메타 등에 데이터 전송 | [원문](https://www.theguru.co.kr/news/article.html?no=108169) | [네이버](https://www.theguru.co.kr/news/article.html?no=108169) | 2026-10-13 13:10:00 KST | GM 차량 관리 앱 4개, 외부 기업 10곳에 차대번호 전달 확인 혼다·닛산·링컨도 개인정보 공유…GM, FTC 제재... 빅테크 기업에 전송한 것으로 확인됐다. GM뿐 아니라 혼다와 닛산, 링컨 등의 차량 전용 애플리케이션(앱)... |
 
 > 데이터 출처: 네이버 검색 뉴스 API
 <!-- NEWS:END -->
